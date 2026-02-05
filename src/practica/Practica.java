@@ -11,6 +11,8 @@ public class Practica {
         Scanner entrada = new Scanner (System.in);
         int numero1,numero2,resultado;
         
+        System.out.println("Digite el primer numero:");
+        numero1 = entrada.nextInt();
         
         
         
