@@ -47,6 +47,9 @@ public class Practica {
                 break;
                 
                 
+            default: System.out.println("Error, operacion incorrecta");
+                break;
+                
         }
         
         
