@@ -14,6 +14,8 @@ public class Practica {
         System.out.println("Digite el primer numero:");
         numero1 = entrada.nextInt();
         
+        System.out.println("Digite el segundo numero:");
+        numero2 = entrada.nextInt();
         
         
         
