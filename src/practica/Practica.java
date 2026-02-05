@@ -29,6 +29,11 @@ public class Practica {
             case 1: resultado = numero1+numero2;
                 System.out.println("La suma es: "+resultado);
                 break;
+                
+            case 2: resultado = numero1-numero2;
+            
+                System.out.println("La resta es: "+resultado);
+                break;
             
             
         }
