@@ -17,6 +17,7 @@ public class Practica {
         System.out.println("Digite el segundo numero:");
         numero2 = entrada.nextInt();
         
+        resultado = numero1 + numero2;
         
         
         
