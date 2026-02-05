@@ -35,7 +35,13 @@ public class Practica {
                 System.out.println("La resta es: "+resultado);
                 break;
             
+            case 3: resultado = numero1*numero2;
             
+                System.out.println("La multiplicacion es: "+resultado);
+                break;
+                
+                
+                
         }
         
         
