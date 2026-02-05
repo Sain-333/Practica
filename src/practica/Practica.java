@@ -25,7 +25,13 @@ public class Practica {
                 + "4. Dividir "));
         
         
-        
+        switch (operacion) {
+            case 1: resultado = numero1+numero2;
+                System.out.println("La suma es: "+resultado);
+                break;
+            
+            
+        }
         
         
         
