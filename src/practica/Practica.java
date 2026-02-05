@@ -41,6 +41,11 @@ public class Practica {
                 break;
                 
                 
+            case 4: resultado = numero1/numero2;
+            
+                System.out.println("La division es: "+resultado);
+                break;
+                
                 
         }
         
